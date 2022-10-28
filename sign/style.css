@@ -1,0 +1,45 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+#fullname{
+  width: 200px;
+}
+#username{
+  width: 200px;
+}
+#email{
+  width: 200px;
+}
+#login{
+  width: 300px;
+  color: greenyellow;
+  background-color: blue;
+}
+body{
+  background-color: blue;
+}
+div{
+  background-color:brown;
+  width: 500px;
+}
+a:hover{
+  text-decoration: underline;
+}
+a{
+  color:white;
+}
+#img{
+  border-radius:50%;
+  border: 10px dashed chocolate;
+}
+a{
+  cursor: pointer;
+}
+img{
+  border-radius: 50%;
+}
+input{
+  outline: none;
+  border: 4px dashed rgba(0, 51, 0, 0.774);
+}
